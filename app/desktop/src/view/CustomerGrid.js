@@ -9,7 +9,7 @@ Ext.define('ModernTunes.view.CustomerGrid', {
         {
             text: 'Kunden-ID',
             dataIndex: 'id',
-            flex: 1
+            flex: .5
         },
         {
             text: 'Kunde',
