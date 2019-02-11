@@ -14,6 +14,31 @@
             "id": 99999,
             "name": "Kunde C",
             "address": "Dorfstraße 3, 01658 Dresden"
+        },
+        {
+            "id": 1,
+            "name": "Kunde D",
+            "address": "Dorfstraße 3, 01658 Dresden"
+        },
+        {
+            "id": 2,
+            "name": "Kunde P",
+            "address": "Dorfstraße 3, 01658 Dresden"
+        },
+        {
+            "id": 5,
+            "name": "Kunde Y",
+            "address": "Dorfstraße 3, 01658 Dresden"
+        },
+        {
+            "id": 15,
+            "name": "Kunde X",
+            "address": "Dorfstraße 3, 01658 Dresden"
+        },
+        {
+            "id": 77,
+            "name": "Kunde G",
+            "address": "Dorfstraße 3, 01658 Pirna"
         }
     ]
 }

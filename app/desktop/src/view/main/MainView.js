@@ -10,6 +10,15 @@ Ext.define('ModernTunes.view.main.MainView', {
     viewModel: {
         type: 'mainviewmodel'
     },
+
+    /*showAnimation: 'pop',
+    layout: {
+        type: 'card',
+        animation: {
+            type: 'flip'
+        }
+    },*/
+
     tabBarPosition: 'bottom',
     items: [
         {
