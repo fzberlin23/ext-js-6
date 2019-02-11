@@ -1,0 +1,19 @@
+{
+    "customers": [
+        {
+            "id": 12345,
+            "name": "Kunde A",
+            "address": "Berliner Straße 123, 10437 Berlin"
+        },
+        {
+            "id": 55555,
+            "name": "Kunde B",
+            "address": "Müllerstraße 5, 13125 Berlin"
+        },
+        {
+            "id": 99999,
+            "name": "Kunde C",
+            "address": "Dorfstraße 3, 01658 Dresden"
+        }
+    ]
+}
