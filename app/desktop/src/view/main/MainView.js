@@ -14,10 +14,7 @@ Ext.define('ModernTunes.view.main.MainView', {
     items: [
         {
             title: "Kunden",
-            xtype: 'customergrid',
-            bind: {
-                store: '{customers}'
-            }
+            xtype: 'customerpanel'
         },
         {
             title: "Thumbnails",
